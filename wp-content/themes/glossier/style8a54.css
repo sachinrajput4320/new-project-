@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+Theme Name: Glossier
+Theme URI: https://glossier.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Glossier Magazine Elementor based WordPress theme is a contemporary viral blog of a modern design and tremendous functionality, basically anything a magazine or newspaper needs. Numerous ways to post news and articles, well-structured blog page, handsome typography for your publishing, advanced widgets collection to present all sorts of content. Glossier theme is packed with custom content templates for all sorts of article presentation, including numerous layouts for latest articles, top stories, category archives etc.
+Version: 1.0.0
+License:
+License URI:
+Text Domain: glossier
+Domain Path: /theme-config/languages
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}

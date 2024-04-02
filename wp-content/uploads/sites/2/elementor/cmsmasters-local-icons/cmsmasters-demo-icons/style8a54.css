@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'cmsmasters-demo-icons';
+  src:  url('fonts/cmsmasters-demo-iconsa960.eot?breh2k');
+  src:  url('fonts/cmsmasters-demo-iconsa960.eot?breh2k#iefix') format('embedded-opentype'),
+    url('fonts/cmsmasters-demo-iconsa960.ttf?breh2k') format('truetype'),
+    url('fonts/cmsmasters-demo-iconsa960.woff?breh2k') format('woff'),
+    url('fonts/cmsmasters-demo-iconsa960.svg?breh2k#cmsmasters-demo-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cms-demo-icon-"], [class*=" cms-demo-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cmsmasters-demo-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cms-demo-icon-lock:before {
+  content: "\e914";
+}
+.cms-demo-icon-chevron-down:before {
+  content: "\e900";
+}
+.cms-demo-icon-chevron-up:before {
+  content: "\e901";
+}
+.cms-demo-icon-arrow-down:before {
+  content: "\e902";
+}
+.cms-demo-icon-arrow-left:before {
+  content: "\e903";
+}
+.cms-demo-icon-arrow-right:before {
+  content: "\e904";
+}
+.cms-demo-icon-arrow-up:before {
+  content: "\e905";
+}
+.cms-demo-icon-book:before {
+  content: "\e906";
+}
+.cms-demo-icon-chevron-left:before {
+  content: "\e907";
+}
+.cms-demo-icon-chevron-right:before {
+  content: "\e908";
+}
+.cms-demo-icon-clock:before {
+  content: "\e909";
+}
+.cms-demo-icon-close:before {
+  content: "\e90a";
+}
+.cms-demo-icon-comment:before {
+  content: "\e90b";
+}
+.cms-demo-icon-eye:before {
+  content: "\e90c";
+}
+.cms-demo-icon-menu:before {
+  content: "\e90d";
+}
+.cms-demo-icon-minus:before {
+  content: "\e90e";
+}
+.cms-demo-icon-moon:before {
+  content: "\e90f";
+}
+.cms-demo-icon-plane:before {
+  content: "\e910";
+}
+.cms-demo-icon-plus:before {
+  content: "\e911";
+}
+.cms-demo-icon-search:before {
+  content: "\e912";
+}
+.cms-demo-icon-sun:before {
+  content: "\e913";
+}
